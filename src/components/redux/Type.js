@@ -1,0 +1,5 @@
+export default {
+  TOTALBUDG: 'TOTALBUDG',
+  INCREMENT: 'INCREMENT',
+  DECREMENT: 'DECREMENT',
+};

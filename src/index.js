@@ -11,5 +11,3 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root'),
 );
-
-// Как єто работает? onIncrement: ()=>dispatch(timeActions.increment(10)) 38 min
